@@ -1,5 +1,4 @@
-# 早く知っておきたかったmatplotlibの基礎知識、あるいは見た目の調整が捗るArtistの話
-# https://qiita.com/skotaro/items/08dc0b8c5704c94eafb9
+# 揺動運動のsin波形を表示する
 
 import numpy as np
 import matplotlib.pyplot as plt
