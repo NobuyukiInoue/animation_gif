@@ -8,7 +8,7 @@ xtick = np.array(["-π", "-1/2π", "0", "1/2π", "π"])
 locs = np.linspace(-np.pi, np.pi, 5)
 fig = plt.figure()
 x = np.arange(-np.pi, np.pi, 0.1)
-values = np.arange(-np.pi, np.pi, 0.1)
+values = np.arange(-np.pi, np.pi, 0.2)
 
 ims = []
 flag_legend = True  #凡例描画のフラグ
@@ -17,9 +17,9 @@ for a in values:
     y1 = np.sin(x - a)
     y2 = np.sin(x + a)
     y3 = y1 + y2
-    im1 = plt.plot(x, y1, "r", label='y1=sin(x-a)', color="red")
-    im2 = plt.plot(x, y2, "r", label='y2=sin(x+a)', color="blue")
-    im3 = plt.plot(x, y3, "r", label='y1+y2', color="green")
+    im1 = plt.plot(x, y1, "r", label='y1=sin(x-a)', color="blue")
+    im2 = plt.plot(x, y2, "r", label='y2=sin(x+a)', color="green")
+    im3 = plt.plot(x, y3, "r", label='y1+y2', color="red")
 
     if flag_legend:#一回のみ凡例を描画
         plt.legend()
