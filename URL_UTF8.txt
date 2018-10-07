@@ -1,0 +1,23 @@
+matplotlibで簡単にアニメーションをつくる（mp4, gif)
+https://qiita.com/msrks/items/e264872efa062c7d6955
+
+Pythonで簡単なアニメーションを描いてみる
+https://qiita.com/Tatejimaru137/items/3fdcc38cf8247b7056aa
+
+matplotlib でアニメーションを作る
+https://qiita.com/yubais/items/c95ba9ff1b23dd33fde2
+
+matplotlib - アニメーションするグラフを作成する
+http://pynote.hatenablog.com/entry/matplotlib-animation
+
+matplotlib.animationで動くグラフに挑戦！
+https://www.sejuku.net/blog/61007
+
+Matplotlibでグラフを作図-03 複数グラフで複数アニメーションを実行する
+https://momonoki2017.blogspot.com/2018/04/matplotlib-03.html
+
+matplotlibのArtistAnimationで二つ以上のアニメーションを描く方法
+https://qiita.com/Mshimon/items/0e7feddc12e7668834b0
+
+matplotlib　グラフの設定
+http://python-remrin.hatenadiary.jp/entry/2017/05/27/114816
